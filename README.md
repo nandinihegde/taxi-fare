@@ -1,2 +1,2 @@
 # taxi-fare
-Work related to the Kaggle Taxi Fare prediction challenge
+Code repository for Kaggle Taxi Fare prediction challenge
